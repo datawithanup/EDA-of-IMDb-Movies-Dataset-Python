@@ -1,4 +1,4 @@
-# Python-Project---IMDB-Analysis
+# Exploratory Data Analysis of IMDb Movies Dataset Using Python
 
 # Overview
 
@@ -15,18 +15,17 @@ IMDB-Movie-Data.csv : CSV file containing the IMDB movie data used for analysis.
 
 The objectives of the project are as follows :
 
-Perform exploratory data analysis (EDA) to understand the structure and characteristics of the dataset.\
+Perform exploratory data analysis (EDA) to understand the structure and characteristics of the dataset.
 
 Clean and preprocess the data as needed for analysis.
 
 Analyze trends in movie genres, ratings, revenue, and other relevant factors.
 
-Identify top-rated movies, directors, and actors based on user ratings and revenue.
+Identify top-rated movies, directors based on user ratings and revenue.
 
 Visualize key insights using charts, graphs, and other visualization techniques.
 
 Draw conclusions and recommendations based on the analysis findings.
-Dependencies
 
 # The project requires the following Python libraries :
 
